@@ -16,8 +16,6 @@ import numpy as np
 import os
 import config
 
-os.chdir('D:/Canada/University/PhD/Research/Programs/Python/algonance')
-
 # Determine the trading pair for websocket
 # The base endpoint is: wss://stream.binance.com:9443
 # Raw streams are accessed at /ws/<streamName>
